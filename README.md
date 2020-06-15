@@ -8,7 +8,8 @@
 4. Add "start ml_doctorjob" in your "server.cfg".
 5. set job to doctor 
 
-
+# requirements
+my edit of redemrp_respawn
 
 
 # Made by
